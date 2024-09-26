@@ -1,6 +1,6 @@
 {
   "name": "@rustpen/client",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "Plugin client for RustPen",
   "main": "dist/index.js",
   "publishConfig": {
