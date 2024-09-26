@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "Plugin client for RustPen",
   "main": "dist/index.js",
+  "publishConfig": {
+    "access": "public"
+  },
   "scripts": {
     "start": "ts-node src/index.ts",
     "build": "tsc",
