@@ -1,6 +1,6 @@
 import * as net from "net";
 
-const SOCKET_PATH = "/tmp/rust_unix_socket";
+const SOCKET_PATH = "/tmp/rustpen_unix_socket/ts";
 
 // Función para crear una instancia del cliente Unix y devolver sendMessage
 export function createClientInstance() {
